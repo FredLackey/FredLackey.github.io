@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Fred Lackey v2.0"
 ---
 ## More to come!
